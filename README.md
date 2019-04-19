@@ -1,6 +1,7 @@
 # gitignore-cli
 
-gitignore-cli is a convenient tool to get gitignore file for your project. It uses gitignore templates from https://github.com/github/gitignore.
+gitignore-cli is a convenient tool to get gitignore file for your project. 
+It uses gitignore templates from https://github.com/github/gitignore.
 
 ## How to use
 
