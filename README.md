@@ -23,6 +23,14 @@ gitignore node
 
 ## Installation
 
+### Install from NPM
+
+```
+npm install -g gitignore-command
+```
+
+### Install from source
+
 Clone the repository
 ```
 git clone https://github.com/ronaldstevanus/gitignore-cli.git
