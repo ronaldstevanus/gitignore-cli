@@ -1,3 +1,6 @@
+[![npm](https://img.shields.io/npm/dm/gitignore-command)](https://www.npmjs.com/package/gitignore-command)
+[![license](https://img.shields.io/npm/l/gitignore-command)](https://github.com/ronaldstevanus/gitignore-cli/blob/master/LICENSE)
+
 # gitignore
 
 `gitignore` is a convenient tool to get gitignore file for your project. 
@@ -13,6 +16,10 @@ gitignore <programming language or technology>
 Sample:
 ```
 gitignore node
+```
+
+```
+gitignore android
 ```
 
 ## Requirements
