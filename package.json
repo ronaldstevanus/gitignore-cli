@@ -28,7 +28,7 @@
     "gitignore": "bin/gitignore.js"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.24.0",
     "commander": "~2.20.0"
   },
   "devDependencies": {}
