@@ -1,6 +1,6 @@
 {
   "name": "gitignore-command",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "description": "Script to get gitignore file for your project",
   "main": "index.js",
   "scripts": {
@@ -28,8 +28,7 @@
     "gitignore": "bin/gitignore.js"
   },
   "dependencies": {
-    "axios": "^0.24.0",
-    "commander": "~2.20.0"
-  },
-  "devDependencies": {}
+    "axios": "0.25.0",
+    "commander": "2.20.0"
+  }
 }
